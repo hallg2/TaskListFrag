@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task List</string>
+    <string name="action_settings">Settings</string>
+    <string name="set">Set</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cancel">Cancel</string>
+    <string name="textview">TextView</string>
+    <string name="save">Save</string>
+    <string name="update">UPDATE</string>
+</resources>
